@@ -34,4 +34,7 @@ sp.pcupdater@gmail.com
 バージョンは常に最新のになっています
 <br>
 https://github.com/Maculand/pc-updater-code
-<br>↑で配布しています
+<br>↑で配布しています<br>
+https://github.com/Maculand/pc-updater-code/releases
+<br>
+↑こちらでもいいです(こっちの方がいいと思います)
