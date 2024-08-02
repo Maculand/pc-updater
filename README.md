@@ -25,3 +25,6 @@ PC UpdaterはPCをアップデートさせるつまり快適にするソフト�
 ## お問い合わせ
 sp.pcupdater@gmail.com
 まで
+
+## 対応言語
+日本語のみです
