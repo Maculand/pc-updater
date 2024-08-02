@@ -30,13 +30,5 @@ sp.pcupdater@gmail.com
 日本語のみです
 
 ## ソースコードについて
-ソースコードは全て公開しています<br>
-バージョンはたまに更新しています<br>(なので特定のバージョンが公開されていない可能性があります)
-<br>
-https://github.com/Maculand/pc-updater-code
-<br>↑で配布しています<br>
-https://github.com/Maculand/pc-updater-code/releases
-<br>
-↑こちらでもいいです(こっちの方がいいと思います)
-<br><br>
-それでもほしければ逆コンパイルでもしといてください
+メールにて対応します
+
