@@ -5,8 +5,10 @@ PC UpdaterはPCをアップデートさせるつまり快適にするソフト�
 ## PC Updaterのダウンロード方法
 1.releaseから最新のPC Updaterをダウンロード<br>
 2.Google Chromeだとマルウェアチェックなどが出ますが、ダウンロードを続行して大丈夫です<br>
-3.ファイルを解凍し PC Updater.exeを開く
+3.ファイルを解凍し PC Updater.exeを開く<br>
 
+※ダウンロードするのは PC Updater.ja.vn.n.n.zip をダウンロードしてください<br>
+※nはバージョンなので一番大きい数字をダウンロードしてください
 ## 使い方
 使用したい項目をクリックするだけです
 <br>
