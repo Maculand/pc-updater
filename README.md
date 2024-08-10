@@ -7,7 +7,7 @@ PC UpdaterはPCをアップデートさせるつまり快適にするソフト�
 ~~2.Google Chromeだとマルウェアチェックなどが出ますが、ダウンロードを続行して大丈夫です<br>~~
 ~~3.ファイルを解凍し PC Updater.exeを開く<br>~~
 
-ここから[最新バージョンをダウンロード](https://github.com/Maculand/pc-updater?tab=readme-ov-file#%E6%9C%80%E6%96%B0%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3).<br>
+ここから[最新バージョンをダウンロード](https://github.com/Maculand/pc-updater/releases/latest).<br>
 ※ダウンロードするのは PC Updater.ja.vn.n.n.zip をダウンロードしてください<br>
 ※nはバージョンなので一番大きい数字をダウンロードしてください
 ## 使い方
@@ -91,8 +91,3 @@ UAC(ユーザーアカウント制御)で許可すると二重で表示してし
 ・v1.0.8 (一般公開バージョン)<br>
 アップデート機能の強化<br>
 
-### 最新バージョン
-> [!WARNING]
-> 最新バージョンは乗っけますが大型アップデートの場合不具合が生じる場合があります<br>
-<br>
-最新バージョンを [ダウンロード](https://github.com/Maculand/pc-updater/releases/latest).
