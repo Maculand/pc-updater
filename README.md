@@ -95,4 +95,4 @@ UAC(ユーザーアカウント制御)で許可すると二重で表示してし
 > [!WARNING]
 > 最新バージョンは乗っけますが大型アップデートの場合不具合が生じる場合があります<br>
 <br>
-最新バージョンを[ダウンロード](https://github.com/Maculand/pc-updater/releases/latest).
+最新バージョンを [ダウンロード](https://github.com/Maculand/pc-updater/releases/latest).
