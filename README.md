@@ -38,8 +38,8 @@ sp.pcupdater@gmail.com
 メールにて対応します
 
 ## 公式アカウント
-このgithubのアカウントと
-X(X_maculand)です
+このgithubのアカウントと<br>
+X(X_maculand)です<br>
 https://x.com/X_Maculand
 
 ## サポートバージョン
