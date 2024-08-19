@@ -9,7 +9,7 @@ PC UpdaterはPCをアップデートさせるつまり快適にするソフト�
 この方法は推奨されなくなりました
 
 ここから[最新バージョンをダウンロード](https://github.com/Maculand/pc-updater/releases/latest).<br>
-※ダウンロードするのは PC Updater.ja.vn.n.n.zip をダウンロードしてください<br>
+~~※ダウンロードするのは PC Updater.ja.vn.n.n.zip をダウンロードしてください<br>~~
 ~~※nはバージョンなので一番大きい数字をダウンロードしてください~~
 
 ## 使い方
