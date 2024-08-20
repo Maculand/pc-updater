@@ -4,9 +4,7 @@ PC UpdaterはPCをアップデートさせるつまり快適にするソフト�
 <br>
 ## PC Updaterのダウンロード方法
 ここから[最新バージョンをダウンロード](https://github.com/Maculand/pc-updater/releases/latest).<br>
-<br>
-現在ウイルス対策ソフトが誤検知をしてしますので原因を探り中です
-修正が行われるまではv1.1.0を使用してください
+
 
 ## 使い方
 使用したい項目をクリックするだけです
